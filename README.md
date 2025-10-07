@@ -15,3 +15,9 @@ https://davidssouza050.github.io/Travelgram
 💡 Sobre o Projeto
 
 O Travelgram é uma página simples e estilosa, criada para aprimorar habilidades com CSS Flexbox e modelagem de layout, simulando um feed de viagens moderno e agradável visualmente.
+
+##
+
+A resposividade foi feita separadamente deste projeto! Acesse o link abaixo para conferir!
+
+https://github.com/DavidSSouza050/Desafio_responsividade
